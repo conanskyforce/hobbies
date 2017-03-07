@@ -16,8 +16,12 @@ hobbies about mysql,python,php,linux,google extension,shadowsocks
 ###写入到本地文件
 ![](py/moocusers.gif)
 
-##2.google extension
+##2.一个python批量修改文件的脚本
+指定目录下所有文件重命名
+![](py/change_file_name.jpg)
 
-##3.php系列
+##3.google extension
 
-##4.linux系列
+##4.php系列
+
+##5.linux系列
