@@ -6,12 +6,14 @@ hobbies about mysql,python,php,linux,google extension,shadowsocks
 
 ***
 ###主脚本
-![](moocpy.gif)
+![](py/moocpy.gif)
 
 ***
 ###数据库收集到的信息
-![](mooc_mysql.gif)
+![](py/mooc_mysql.gif)
 
 ***
 ###写入到本地文件
-![](moocusers.gif)
+![](py/moocusers.gif)
+
+##2.
