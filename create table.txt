@@ -1,0 +1,14 @@
+﻿CREATE TABLE moocuserinfos(
+id int unsigned auto_increment primary key,
+userName varchar(50),
+userImg varchar(100),
+teacherOrStudent varchar(20),
+userGender varchar(20),
+userSignature varchar(100),
+userLearnTime varchar(20),
+userCredit varchar(200),
+userExpir varchar(20),
+userfollows varchar(10),
+userfollowers varchar(10),
+aboutinfo varchar(10)
+);
